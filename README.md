@@ -6,7 +6,7 @@ A study of the network topology of my college campus.
 This project's goal is to design the topology of my college campus network **( Indian Institue Of Information Technology Bhagalpur )** on a small scale.
 I have implemented both wired and wireless networking technologies utilising the Cisco Packet Tracer software. 
 
-The following devices is part of this network:
+The following devices are part of this network:
 
 1) Router (2911)
 2) Switches (2960-24TT)
